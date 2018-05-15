@@ -1,7 +1,0 @@
-Voilà le premier fichier via Git pour l'exercice
-1: ouvrir Git Bash sur le post
-2: se placer sur le dossier dans lequel va se trouver le nouveau document
-3: crée un nouveau fichier cmd : touch "nomdufichier"
-4: mise ne place d'information dans le nouveau fichier via l'éditeur de texte
-cmd : "nom de l'éditeur" suivit du nom de fichier
-5: une fois l'ajout effectué il faut bien sur sauvegarder son travail "Ctrl+S"
